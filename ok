@@ -1,0 +1,96 @@
+ class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start
+ 
+
+
+
+ <form  class="align-star"></form>
+ <div class="row">
+   <div class="col-md-6 mb-4">
+     <div class="form-outline">
+       <input type="text" id="form3Example1" class="form-control" placeholder="Nombre"  />
+       <label class="form-label" for="form3Example1" style="font-family: 'Comfortaa', cursive;">Tipo</label>
+     </div>
+   </div>
+ </div>
+
+ <div class="row">
+   <div class="col-md-6 mb-4">
+     <div class="form-outline">
+       <input type="text" id="form3Example1" class="form-control" placeholder="Ciudad/Estado"  />
+       <label class="form-label" for="form3Example1">Numero</label>
+     </div>
+   </div>
+   <div class="col-md-6 mb-4">
+     <div class="form-outline">
+       <input type="text" id="form3Example2" class="form-control" placeholder="Codigo Postal" />
+       <label class="form-label" for="form3Example2">Laboratorio</label>
+     </div>
+   </div>
+ </div>
+ <div class="row">
+   <div class="col-md-6 mb-4">
+     <div class="form-outline">
+       <input type="text" id="form3Example1" class="form-control" placeholder="Telefono"  />
+       <label class="form-label" for="form3Example1">Codigo de identificacion</label>
+     </div>
+   </div>
+ </div>  
+   <button type="button" class="btn btn-primary ">Enviar</button>              
+</form>
+
+
+
+<form  class="align-star">
+    <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+      <p class="lead fw-normal mb-0 me-3">BIENVENIDO UDI</p>   
+    </div>
+
+    <br>
+    <br>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="form-outline">
+            <input type="text" id="form3Example1" class="form-control" placeholder="Nombre"  />
+            <label class="form-label" for="form3Example1" style="font-family: 'Comfortaa', cursive;">Nombre</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="form-outline">
+            <input type="text" id="form3Example1" class="form-control" placeholder="Apellido Paterno"  />
+            <label class="form-label" for="form3Example1">Apellido Paterno</label>
+          </div>
+        </div>
+        <div class="col-md-6 mb-4">
+          <div class="form-outline">
+            <input type="text" id="form3Example2" class="form-control" placeholder="Apellido Materno" />
+            <label class="form-label" for="form3Example2">Apellido Materno</label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Error input -->
+    <div class="form-outline mb-4">
+        <input type="input" id="form3Example3" class="form-control form-control-lg"
+          placeholder="Usuario" />
+        <label class="form-label" for="form3Example3">Usuario</label>
+      </div>
+
+      <!-- ciudad codigo postal -->
+     
+
+
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+          <div class="form-outline">
+            <input type="text" id="form3Example1" class="form-control" placeholder="Telefono"  />
+            <label class="form-label" for="form3Example1">Telefono</label>
+          </div>
+        </div>
+      </div>  
+        <button type="button" class="btn btn-primary ">Enviar</button>              
+  </form>

@@ -1,18 +1,19 @@
 table {
     border-collapse: collapse;
     border:black 1px solid;
-    height: 500px;
+    height: 1000px;
     
   }  
   td {
-    border:black 1px solid;
+    border:black 1px transparent          ;
   }
 
   .tableFormat table{
     margin: 0 auto;
   }
   .imagenIzquierda{
-    width:  20%;
+    width:  10%;
+    height: 100vh;
   }
    
    .contenedor
