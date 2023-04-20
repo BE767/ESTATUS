@@ -1,0 +1,39 @@
+:root {
+    --blanco: #FFFFFF;
+    --rojo: #B00000;
+    
+    --gris: #b6aeae;
+}
+
+html{
+    text-align: center;
+    font-size: 62.5%;
+}
+body{ 
+    font-size: 16px;
+    font-family: 'Krub', sans-serif;
+    background-color: white;
+}
+
+.container-fluid{
+    height: 25rm;
+    background-color: #B00000;
+    color: #FFFFFF;
+    margin-top: auto;
+}
+
+.col1{
+    background: lightgray;
+}
+.NVC a {
+   
+    color: #FCFCFC;
+    text-decoration: none ;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+h3{
+    color: white;
+}
